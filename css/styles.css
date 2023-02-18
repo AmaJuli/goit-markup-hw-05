@@ -608,4 +608,14 @@ background-color: var(--button-hover);
     display: block
 }
 
+::backdrop
+
+.modal-window {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(46, 47, 66, 0.4);
+}
 
