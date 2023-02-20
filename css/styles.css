@@ -198,7 +198,7 @@ background-color var(--button-hover);
         flex-direction:column;
         gap: 24px;
         padding-bottom: 0;
-        color: var(--hover-color);
+        color: var(--button-hover);
 }
     
 
